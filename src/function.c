@@ -1,5 +1,5 @@
 #include<function.h>
-
+#include<stdio.h>
 void fibonacci_func(int fibonacci_limit)
 {
     int init_term=0, second_term=1, nextTerm, fibonacci_iterator;
