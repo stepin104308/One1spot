@@ -2,8 +2,7 @@
 #include <CUnit/CUnit.h>
 
 #include <function.h>
-#include <string.h>
-#define PROJECT_NAME "Function"
+#define PROJECT_NAME "function"
 
 /* Prototypes for all the test functions */
 void test_factorial(int);
